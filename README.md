@@ -10,8 +10,8 @@
 ## Gif
 
 <p float="left">
- <img src="https://github.com/jarekkopaczewski/Basic-OpenGL/blob/1881b592958be3e1ecda5265dd7e5e2b98ddb4c6/ball.gif" height="250" hspace="20"/>
- <img src="https://github.com/jarekkopaczewski/Basic-OpenGL/blob/1881b592958be3e1ecda5265dd7e5e2b98ddb4c6/ball2.gif" height="250" hspace="20"/>
+ <img src="https://github.com/jarekkopaczewski/Basic-OpenGL/blob/1881b592958be3e1ecda5265dd7e5e2b98ddb4c6/ball.gif" height="300" hspace="20"/>
+ <img src="https://github.com/jarekkopaczewski/Basic-OpenGL/blob/1881b592958be3e1ecda5265dd7e5e2b98ddb4c6/ball2.gif" height="300" hspace="20"/>
 </p>
 
 ## Built With
